@@ -1,0 +1,3 @@
+[submodule "scenejs"]
+	path = scenejs
+	url = git@github.com:kt3k/scenejs.git
