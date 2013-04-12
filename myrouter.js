@@ -8,8 +8,8 @@ window.Router = (function () {
 
     var Router = function () {
         this.scenes = {};
-        this.default = null;
     };
+
     var exports = function () {
         return new Router();
     };
